@@ -1,0 +1,9 @@
+# Runtime packages.
+# Conditions:
+# - Python 3.10+ is recommended.
+# - For GPU inference, install the PyTorch build that matches your CUDA version.
+# Essential packages:
+numpy>=2.0
+torch>=2.0
+alns>=7.0
+
